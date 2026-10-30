@@ -3,7 +3,7 @@
   "blocks": [
     {
       "type": "text",
-      "text": "1. 위 매매설정 입력란에 거래소\n    UID\n    API KEY\n    SECRET KEY 를 입력 하세요."
+      "text": "1. 위 매매설정 입력란에 거래소\n    UID\n    API KEY\n    SECRET KEY 를 입력 하세요.\n    (DEEPCOIN은 API 비밀번호도 입력)"
     },
     {
       "type": "text",
