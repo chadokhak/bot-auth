@@ -1,3 +1,11 @@
 {
-  "exempt_hashes": []
+  "exempt_hashes": [
+    "bdc27c3f687dd848b32fd0269c95b0c9e93632494c97493fbc2402cc2452e796"
+  ],
+  "meta": {
+    "bdc27c3f687dd848b32fd0269c95b0c9e93632494c97493fbc2402cc2452e796": {
+      "note": "[관리자]",
+      "date": "2026-10-31"
+    }
+  }
 }
