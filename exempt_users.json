@@ -1,7 +1,8 @@
 {
   "exempt_hashes": [
     "bdc27c3f687dd848b32fd0269c95b0c9e93632494c97493fbc2402cc2452e796",
-    "03bcd18720caada5819094001159afba96265aa05fb7591a433941f161ba6b47"
+    "03bcd18720caada5819094001159afba96265aa05fb7591a433941f161ba6b47",
+    "dcee123106f56420df06071c5e80377bdeb37ba5cf53b9eb8c0a4a20ca917230"
   ],
   "meta": {
     "bdc27c3f687dd848b32fd0269c95b0c9e93632494c97493fbc2402cc2452e796": {
@@ -9,6 +10,10 @@
       "date": "2026-10-31"
     },
     "03bcd18720caada5819094001159afba96265aa05fb7591a433941f161ba6b47": {
+      "note": "[관리자]",
+      "date": "2026-10-31"
+    },
+    "dcee123106f56420df06071c5e80377bdeb37ba5cf53b9eb8c0a4a20ca917230": {
       "note": "[관리자]",
       "date": "2026-10-31"
     }
