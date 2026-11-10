@@ -2,9 +2,16 @@
   "approved_uids": [
     "26425253",
     "51443780",
-    "9608004"
+    "9608004",
+    "123456789"
   ],
   "meta": {
+    "9608004": {
+      "note": "내 딥코인",
+      "exchange": "DEEPCOIN",
+      "expires": "",
+      "date": "2026-11-04"
+    },
     "26425253": {
       "note": "내 게아오",
       "exchange": "Gate.io",
@@ -17,11 +24,12 @@
       "expires": "",
       "date": "2026-11-04"
     },
-    "9608004": {
-      "note": "내 딥코인",
-      "exchange": "DEEPCOIN",
-      "expires": "",
-      "date": "2026-11-04"
+    "123456789": {
+      "note": "",
+      "exchange": "Gate.io",
+      "expires": "2026-11-17 09:18",
+      "date": "2026-11-10",
+      "trial": true
     }
   }
 }
